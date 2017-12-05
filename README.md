@@ -1,5 +1,7 @@
 # BeerLocations
 
+Purpose of this app is to play with parsing a complex list of locations with different license levels. Doing with Rails and Phoenix to better understand the differences between the two. 
+
 To start your Phoenix app:
 
   * Install dependencies with `mix deps.get`
